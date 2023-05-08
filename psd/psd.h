@@ -1,5 +1,5 @@
-#ifndef __COVAR__H__
-#define __COVAR__H__
+#ifndef __PSD__H__
+#define __PSD__H__
 #include <vector>
 
 float variance(std::vector<float> &data);
